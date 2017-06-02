@@ -25,6 +25,7 @@ const HEROES: Hero[] = [
         <span class="badge">{{hero.id}}</span> {{hero.name}}
       </li>
     </ul>
+    <app-hero-detail [hero]="selectedHero"></app-hero-detail>
   `,
   // styleUrls: ['./app.component.css']
   styles: [`
