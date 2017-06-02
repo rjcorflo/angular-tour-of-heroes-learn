@@ -1,10 +1,9 @@
-# Angular Tour Of Heroes
+# Angular Tour Of Heroes (The Witcher Edition)
 
 ## Information
-This application is the same from [Angular Tutorial](https://angular.io/docs/ts/latest/tutorial/), with a few changes.
+This application is the same from [Angular Tutorial](https://angular.io/docs/ts/latest/tutorial/), with a few changes, and yes, adapted to The Witcher Saga.
 
 Created as a first contact with Angular.
-
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.3.
 
